@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# HobbyZen Mind Mapper
 
-# Run and deploy your AI Studio app
+A simple visualization app I spun up during my testing of AI Studio capabilities. A fun concept to help me organize thoughts about my hobbies and current priorities and projects. 
 
-This contains everything you need to run your app locally.
+## Goals
+1. Allow the user to explore thought patterns, activities, hobbies and map those items together into groups.
+2. Create priority over actions and understand where you can apply your skillset for the most enjoyment.
+3. Take a look at all the skills the user has acquired and summarize a more professional profile.
+4. Explore the current capabilities of AI assisted code generation via AI Studio.
+5. Determine if Requirements only product builds are a suitable path moving forward.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Z9550L25R76jm6v_x-gZUIKO_g41Yv4P
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   
